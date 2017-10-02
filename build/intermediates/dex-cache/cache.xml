@@ -2,22 +2,148 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\John\.android\build-cache\8a8f79f944380e4171bd8bba5f4a68cb89366cee\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3fe009415c68e7064c83f42df24fea862f7aa832\classes.dex" />
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\classes_61aae078d3e0fc1f976335e9e73c2f80e160b894.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\John\.android\build-cache\59a3d9921026791c55c52240cf337bc56fc839fa\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="4ce17a5ce63150b891bc747be5413715cc588213">
-        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fae755da79d60898662a4afcc76b131df2473081\classes.dex" />
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\classes_47ee39db09cdc1a5241456b70f3dafab89952eb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\.android\build-cache\481f6c7073cc1313b07801a1d996da5cc1f4b0a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\classes_7456e6e1aeb704e2b2f30a508452cb57a4068441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\.android\build-cache\ca3f637cfc7454b04fed57b014eb5ad1726ccd6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\classes_baa98f811505b57887f9b952e6be53b49ea873b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\.android\build-cache\ea9ad18277e08e5bc72eecbd010bc7a8c12dbf7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\classes_32e4da0782566a9d066986f687d2e11565653cbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_eedfd7cef3c33a77a37b30858b53a5f9c33c4285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\.android\build-cache\35f541721c4938d37e9f54b8e18647b415bb598c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\classes_7120e6b9503215a56255c99bd01c107cfd9bb3cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\.android\build-cache\ee662f7c4e498776f4f9a234e69223ce58a33bc2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\classes_d422415c3d97c31e44f92cf7d2bfa17f344ef23a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\.android\build-cache\0cf71732bdf782199d2ec204fe240798e5ceb3b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\classes_5142a1d79012b0077a42f61994a8c006094c260e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_af78cb914bece3982bd7df94d7546def41c1a244.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\.android\build-cache\34244b1596ca7e8f118ce1815532599d7c18329e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\classes_8a82e453a1823a6c0cea555605b4a2436f269bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\.android\build-cache\a3b2827ade5becc1d6643643b27f170eb850d905\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\classes_98b6cf6b630c06d7de474c3665dde292f1171ea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\gson-2.8.2_f74f1cb7a6975f512b30f373f18ccf18f44f5e7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\.android\build-cache\feda8144db046fdde7279aca6602271725aa1250\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\classes_72f9604ce935acb57fc3cfe0d97cd94822c3ed87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\.android\build-cache\149d8710d2a99763ab2f2a39adeb7fd8839318f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\classes_17a696ff94be6b5ced7b75bca78371c580087b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\John\.android\build-cache\f203b6cfa7b2212cf461fe1ee4cba09dc9dea6b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\pre-dexed\debug\classes_f8875fee07c21b8d74f167114e2a80ff9f675945.jar" />
     </item>
 
 </items>
