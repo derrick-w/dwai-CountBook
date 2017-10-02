@@ -9,10 +9,12 @@ import java.util.Date;
 
 public class CounterDetails{
     private String name;
-    private String comment;
-    private Date date;
-    private int initial;
+    private Date updated;
     private int current;
+    private int initial;
+    private String comment;
+
+
 
     public void setInitial(int initial) {
         this.update();
@@ -31,7 +33,7 @@ public class CounterDetails{
         this.name = name;
         this.comment = comment;
         this.initial = initial;
-        this.date = new Date();
+        this.updated = new Date();
         this.last = new Date();
         this.current = this.initial;
     }
@@ -65,7 +67,7 @@ public class CounterDetails{
 
 
     public String getDateString() {
-        return new SimpleDateFormat("dd/MM/yy, h:mm a").format(this.date);
+        return new SimpleDateFormat("dd/MM/yy, h:mm a").format(this.updated);
     }
     public String getLastString() {
         return new SimpleDateFormat("dd/MM/yy, h:mm:ss a").format(this.last);
@@ -80,6 +82,6 @@ public class CounterDetails{
 
     @Override
     public String toString() {
-        return new SimpleDateFormat("dd/MM/yy, h:mm a").format(this.date);
+        return new SimpleDateFormat("dd/MM/yy, h:mm a").format(this.updated);
     }
 }

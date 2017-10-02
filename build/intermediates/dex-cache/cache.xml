@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3fe009415c68e7064c83f42df24fea862f7aa832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4ce17a5ce63150b891bc747be5413715cc588213">
+        <dex dex="C:\Users\John\Documents\CMPUT 301\A1\dwai-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fae755da79d60898662a4afcc76b131df2473081\classes.dex" />
+    </item>
+
+</items>

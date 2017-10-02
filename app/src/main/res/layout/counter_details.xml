@@ -23,7 +23,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="20sp"
-        android:paddingBottom="10dp"/>
+        android:paddingBottom="10dp"
+        android:text="None"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -37,9 +38,9 @@
         android:id="@+id/updateDetail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="N/A"
         android:textSize="20sp"
-        android:paddingBottom="10dp"/>
+        android:paddingBottom="10dp"
+        android:text="None"/>
     
     <TextView
         android:layout_width="wrap_content"
@@ -50,10 +51,10 @@
         android:paddingBottom="10dp"/>
 
     <TextView
-        android:id="@+id/updateCurrent"
+        android:id="@+id/currentDetail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="N/A"
+        android:text="None"
         android:textSize="20sp"
         android:paddingBottom="10dp"/>
 
@@ -66,10 +67,10 @@
         android:paddingBottom="10dp"/>
 
     <TextView
-        android:id="@+id/updateInitial"
+        android:id="@+id/initialDetail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="N/A"
+        android:text="None"
         android:textSize="20sp"
         android:paddingBottom="10dp"/>
 
@@ -82,10 +83,10 @@
         android:paddingBottom="10dp"/>
 
     <TextView
-        android:id="@+id/updateComment"
+        android:id="@+id/commentDetail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="N/A"
+        android:text="None"
         android:textSize="20sp"
         android:paddingBottom="10dp"/>
 
