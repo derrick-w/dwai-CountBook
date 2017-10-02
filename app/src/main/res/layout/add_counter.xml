@@ -8,7 +8,7 @@
     android:paddingBottom="16dp"
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
-    tools:context="c301.dwai_countbook.addCounter">
+    tools:context="c301.dwai_countbook.AddCounter">
 
     <EditText android:id="@+id/addName"
         android:layout_width="match_parent"

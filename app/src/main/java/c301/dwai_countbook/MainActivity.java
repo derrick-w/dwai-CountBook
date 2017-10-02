@@ -11,10 +11,12 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
-    private ListView counterList;
-    private ArrayList<counterInfo> counterArrayList;
+    private ListView countersList;
+    private static ArrayList<CounterDetails> counterList;
 
-    private ArrayAdapter<counterInfo> adapter;
+    private static ArrayAdapter<CounterDetails> adapter;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void addCounter(View view) {
-        Intent intent = new Intent(this, R.layout.list_item, counterList);
+        Intent intent = new Intent(this, R.layout.list_item, countersList);
         startActivity(intent);
     }
 }
