@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    tools:context="c301.dwai_countbook.addCounter">
+
+    <EditText android:id="@+id/addName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name of counter"
+        android:paddingBottom="15dp"
+        android:inputType="textCapSentences"/>
+
+    <EditText android:id="@+id/addCurrent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Current value"
+        android:paddingBottom="15dp"
+        android:inputType="numberDecimal"/>
+
+    <EditText android:id="@+id/addInitial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Initial value"
+        android:paddingBottom="15dp"
+        android:inputType="numberDecimal"/>
+
+    <EditText android:id="@+id/addComment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Comment"
+        android:paddingBottom="15dp"
+        android:inputType="text"/>
+
+    <Button
+        android:id="@+id/addCounter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="Save"
+        android:onClick="saveCounter" />
+</LinearLayout>
